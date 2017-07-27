@@ -1,0 +1,1 @@
+{"Tiles": ["{\"Color\": [0, 0, 0], \"TilePath\": \"res/ground.png\", \"TileImage\": null, \"TileKind\": \"solid\", \"ID\": 0}", "{\"Color\": [255, 255, 255], \"TilePath\": \"res/sky.png\", \"TileImage\": null, \"TileKind\": \"sky\", \"ID\": 1}", "{\"Color\": [255, 0, 0], \"TilePath\": \"res/grass.png\", \"TileImage\": null, \"TileKind\": \"solid\", \"ID\": 0}"], "TileSize": 10}
